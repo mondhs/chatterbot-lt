@@ -1,0 +1,22 @@
+#JSGF V1.0;
+
+grammar patikra;
+
+public <COMMAND> =
+labas |
+labas rytas |
+labas vakaras |
+viso gero |
+kaip einasi |
+ar galite padėti |
+aš turiu klausimą |
+gal kokią man knygą rekomenduosit |
+puiki mintis |
+ačiū |
+kokia jūsų mėgstama knyga |
+kokia jūsų mėgstama spalva |
+kas tu |
+kuo jūs vardu |
+atsiprašau |
+gal jūs galite man padėti |
+sėkmės ;
